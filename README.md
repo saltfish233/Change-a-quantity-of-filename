@@ -5,4 +5,4 @@
 `java -jar change.jar`
 ### Second,you need to input the definite address where files exsist.
 ### Third,you need to input the number you want to start.
-### OK,you have successfully change files name,congratulations.
+### OK,you have successfully changed files name,congratulations.
