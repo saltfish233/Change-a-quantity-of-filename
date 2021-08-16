@@ -59,15 +59,15 @@ class Task{
 
 }
 
-public class main {
+public class change {
 
     public static void main(String args[])
     {
-        System.out.println("请指定文件夹名称");
+        System.out.println("请输入文件路径(绝对路径)");
         Scanner input=new Scanner(System.in);
         String address=input.next();
         System.out.println(address);
-        System.out.println("从几开始命名:");
+        System.out.println("从数字几开始命名:");
         int start=input.nextInt();
         Task task =new Task();
         task.changeFileName(address,start);
