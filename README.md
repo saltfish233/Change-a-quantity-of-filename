@@ -1,5 +1,5 @@
 # Change-a-quantity-of-filename
-# How to use it?.
+# How to use it?
 ### First,You can run it by cmd,open cmd in the place where Change-a-quantity-of-filename.java exsits.
 ### Input
 `java -jar change.jar`
